@@ -1,2 +1,4 @@
-# event-tracker-pro
-Advanced WordPress event tracking plugin with behavior-based logic.
+# Event Tracker Pro
+
+A development-stage WordPress plugin focused on tracking user behavior
+and events efficiently.
